@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.log
+/tmp/
+
+# 用户个人数据（不要提交）
+user-profile.json
+
+# 高德 API Key 配置（不要提交）
+vendor/amap-lbs-skill/config.json
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
