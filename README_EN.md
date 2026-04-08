@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🍜 eat.skill
 
 > *"What's for lunch? What's for dinner? — The two greatest unsolved mysteries of mankind."*
@@ -16,6 +18,10 @@ Finally made up your mind, only to find a 30-minute queue at the restaurant?
 **Install this Skill and let your AI meal buddy remind you on time — decision made in 3 seconds.**
 
 [Install](#-get-started-in-30-seconds) · [Commands](#-commands) · [Reminders](#-scheduled-reminders) · [Contribute](CONTRIBUTING.md)
+
+[中文](README.md)
+
+</div>
 
 ---
 
