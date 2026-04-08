@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🍜 干饭.skill
 
 > *"中午吃什么？晚上吃什么？—— 人类两大未解之谜"*
@@ -5,7 +7,6 @@
 [License: MIT](LICENSE)
 [Node.js](https://nodejs.org)
 [Claude Code](https://claude.ai/code)
-[AgentSkills](https://agentskills.io)
 
 每天在工位上发呆 10 分钟想中午吃什么？  
 
@@ -16,6 +17,8 @@
 **装上这个 Skill，AI 饭搭子每天准时提醒，帮你 3 秒做决定。**
 
 [安装](#-30-秒上手) · [使用](#-命令列表) · [定时提醒](#-定时提醒饭点自动推送) · [贡献](CONTRIBUTING.md)
+
+</div>
 
 ---
 
